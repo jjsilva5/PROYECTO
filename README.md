@@ -5,8 +5,8 @@
 - Identificar las regiones de operación de los transistores de unión bipolar.
 - Conocer  las  diferentes  configuraciones  para  el  uso de transistores.
 - Comprender la saturación del transistor y su utilidad.
-- Entender el funcionamiento de los transistore
-- Determinar los parámetros eléctricos de conductividad de un transistor.
+- Armar un led nocturno automatico.
+- Determinar el funcionamiento de la fotocelda
 
 2.MARCO TEÓRICO
 
