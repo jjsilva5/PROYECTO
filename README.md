@@ -78,7 +78,7 @@ Circuito armado experimentalmente:
 4.VIDEO
 
 https://drive.google.com/file/d/1HCdkHJrND9glzMZNJe0Wm40VX1jqoa4R/view?usp=share_link
-
+https://drive.google.com/file/d/14Y6K1nF8h_IQ6wX7ieMH-92eU3kozMKR/view?usp=sharing
 
 5.CONCLUSIONES
 
