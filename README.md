@@ -10,6 +10,45 @@
 
 2.MARCO TEÓRICO
 
+Potenciometro:
+
+El resistor variable utilizado para dividir voltaje se llama potenciómetro.
+El potenciómetro es un dispositivo de tres terminales, como se
+indica en la parte (a). Las terminales 1 y 2 tienen resistencia fija entre ellas, que es la resistencia
+total. La terminal 3 está conectada a un contacto móvil (rozador). Se puede variar la resistencia entre 3 y 1 o entre 3 y 2 subiendo o bajando el contacto.
+
+![image](https://user-images.githubusercontent.com/117045943/205103954-2b86784c-22ca-4eef-936a-65a45f785c97.png)
+![image](https://user-images.githubusercontent.com/117045943/205103984-16202620-0daa-42c2-ada8-5b5afcdaf505.png)
+
+Transistor:
+
+El transistor actúa como fuente de corriente
+porque una parte de la curva característica IV es una línea horizontal.
+
+![image](https://user-images.githubusercontent.com/117045943/205105538-2770c86b-3a0e-4838-8236-9280d3a7988c.png)
+
+Los transistores se utilizan ampliamente como interruptores en muchas aplicaciones.
+Los transistores se utilizan ampliamente como interruptores en muchas aplicaciones. El transistor puede ser utilizado como el equivalente de un interruptor de vía y polo únicos. Se puede abrir o cerrar la trayectoria de un circuito controlando el estado
+del transistor. En la figura 2-46 se muestran dos tipos de símbolos de transistor junto con sus
+equivalentes de interruptor mecánico.
+
+![image](https://user-images.githubusercontent.com/117045943/205106129-95d203d7-e17c-4597-9705-a1dc65af19a1.png)
+
+Tipos de transistores:
+
+Dispositivo   semiconductor   que   permite   el   control   y   la   regulación   de   unacorriente grande mediante una señal muy pequeña. Existe una gran variedad detransistores.   En   principio,   se   explicarán   los   bipolares.   Los   símbolos   quecorresponden a este tipo de transistor son los siguientes:
+
+![image](https://user-images.githubusercontent.com/117045943/205106559-758eb2f9-3183-43bf-80a2-80928acbd082.png)
+
+Fotoceldas:
+
+Una fotocelda es un dispositivo electrónico que transforma fotones en energía eléctrica, en forma de voltios. Pueden calibrarse y detectan un espectro amplio de niveles de luz produciendo una cantidad variable de electricidad.
+
+Para qué sirven las fotoceldas
+
+- Son utilizadas para el control de encendido y apagado de una lámpara.
+- Las fotoceldas se usan en la producción del voltaje requerido para recargar una batería o como fuente de voltaje de múltiples dispositivos.
+- Son frecuentemente establecidas como control del encendido automático del alumbrado público.
 
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
@@ -38,6 +77,7 @@ Circuito armado experimentalmente:
 
 4.VIDEO
 
+https://drive.google.com/file/d/1HCdkHJrND9glzMZNJe0Wm40VX1jqoa4R/view?usp=share_link
 
 
 5.CONCLUSIONES
@@ -49,5 +89,7 @@ Circuito armado experimentalmente:
 
 6.BIBLIOGRAFÍA
 
+Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
 
+Anonimo (2022). Fotocelda. Definición.xyz
 
