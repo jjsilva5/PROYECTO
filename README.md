@@ -91,9 +91,9 @@ https://drive.google.com/file/d/14Y6K1nF8h_IQ6wX7ieMH-92eU3kozMKR/view?usp=shari
 
 5.CONCLUSIONES
 
-- Mediante  dicha  práctica  pudimos  entender  el importante papel de los transistores en la electrónica.
+- Mediante la práctica se comprende el importante papel de los transistores en la electrónica.
 - El transistor es un dispositivo semiconductor que permite el control y la regulación de una corriente.
-- Una polarización correcta permite el funcionamiento de este componente.No es lo mismo polarizar un transistor NPN que PNP.
+- Una polarización correcta permite el funcionamiento de este componente. No es lo mismo polarizar un transistor NPN que PNP.
 - La  región  de  operación  en  la  cual  se  sitúe  el transistor  depende  del  voltaje  al  cual  se  encuentre sometió.  
 
 6.BIBLIOGRAFÍA
