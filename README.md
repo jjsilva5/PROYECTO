@@ -63,6 +63,10 @@ Materiales:
 - Resitencia 10kohms
 - Fuente 6V
 
+Diagrama circuital:
+
+![image](https://user-images.githubusercontent.com/117045943/205119898-e5ecbe45-b3f6-43b7-8447-ffe3c68e26f2.png)
+
 Circuito armado en thinkercard:
 
 ![image](https://user-images.githubusercontent.com/117045943/205098794-b3bcca23-88b7-40c1-a9f3-d981da8d6b3a.png)
